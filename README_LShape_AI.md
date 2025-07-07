@@ -106,5 +106,5 @@ This project is for educational/demo purposes only.
 ## 🙋‍♂️ Author
 
 **Kishan Shan**  
-GitHub: [@your-username](https://github.com/your-username)  
+GitHub: [@your-username](https://github.com/kishan-ctrl)  
 University: KIU University – Sri Lanka
