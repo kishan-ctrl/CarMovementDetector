@@ -99,7 +99,7 @@ The model training notebook is available in this repo:
 
 ## ✍️ License
 
-This project is for educational/demo purposes only.
+[MIT License](LICENSE)
 
 ---
 
